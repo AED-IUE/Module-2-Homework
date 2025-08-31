@@ -27,7 +27,7 @@ public class Exercise01_10 {
        
        float milesPerHour = (float)(mi / hoursRan); // final answer with float for readability
 
-       System.out.println("The runner's average speed in miles per hour is about: " + milesPerHour + " mph");
+       System.out.println("The runner's average speed in miles per hour is about: " + milesPerHour + " mi/h");
      
        
     }
